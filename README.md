@@ -70,4 +70,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # to-do-list
 
-# Visit this website [https://665b3dfcf2305df516ab4c08--elegant-faun-ad0773.netlify.app/](https://665b3dfcf2305df516ab4c08--elegant-faun-ad0773.netlify.app/) for the preview
+# Live Demo: [https://665b3dfcf2305df516ab4c08--elegant-faun-ad0773.netlify.app/](https://665b3dfcf2305df516ab4c08--elegant-faun-ad0773.netlify.app/) 
